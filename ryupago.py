@@ -5,9 +5,9 @@ import json
 import random
 
 # Ryu's papago account..
-api_config = {
-	"id" : 'mJeiGZ2YNbi8ihzRjrNI',
-	"secret" : 'ar0E8CVCux'	
+api_config = { 
+	"id" : '[input_api key]', #코드입력
+	"secret" : '[input_api_secret_key]' #시크릿 코드 입력	
 }
 
 # end
